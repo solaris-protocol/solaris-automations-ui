@@ -1,6 +1,7 @@
 {
   "name": "solaris-automations-ui",
   "version": "0.1.0",
+  "homepage": "https://solaris-protocol.github.io/solaris-automations-ui/",
   "private": true,
   "repository": {
     "type": "git",

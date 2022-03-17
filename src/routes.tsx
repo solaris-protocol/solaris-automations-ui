@@ -10,7 +10,7 @@ import { Providers } from './Providers';
 export const Routes: FC = () => {
   return (
     <>
-      <HashRouter basename={'/'}>
+      <HashRouter>
         <Providers>
           <Layout>
             <Switch>

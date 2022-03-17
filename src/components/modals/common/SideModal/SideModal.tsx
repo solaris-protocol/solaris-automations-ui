@@ -99,7 +99,6 @@ const Wrapper = styled.div`
 // `;
 
 const Content = styled.div`
-  flex-basis: 613px;
   overflow-y: auto;
 `;
 

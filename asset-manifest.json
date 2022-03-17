@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8a708e7.chunk.css",
-    "main.js": "/static/js/main.2db88a05.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.cc1f287d.js",
-    "static/css/2.b7a1d25f.chunk.css": "/static/css/2.b7a1d25f.chunk.css",
-    "static/js/2.51f941bc.chunk.js": "/static/js/2.51f941bc.chunk.js",
-    "static/js/3.27955bfe.chunk.js": "/static/js/3.27955bfe.chunk.js",
-    "static/js/4.1e08a8e4.chunk.js": "/static/js/4.1e08a8e4.chunk.js",
-    "index.html": "/index.html",
-    "static/js/2.51f941bc.chunk.js.LICENSE.txt": "/static/js/2.51f941bc.chunk.js.LICENSE.txt",
-    "static/media/StrategyCard.tsx": "/static/media/solaris.4460f13f.svg",
-    "static/media/Layout.tsx": "/static/media/lines.71a859d3.svg",
-    "static/media/Closed.tsx": "/static/media/logo.059fae92.svg"
+    "main.css": "/solaris-automations-ui/static/css/main.930debe6.chunk.css",
+    "main.js": "/solaris-automations-ui/static/js/main.acf26071.chunk.js",
+    "runtime-main.js": "/solaris-automations-ui/static/js/runtime-main.b5ef3a67.js",
+    "static/css/2.b7a1d25f.chunk.css": "/solaris-automations-ui/static/css/2.b7a1d25f.chunk.css",
+    "static/js/2.fff958c2.chunk.js": "/solaris-automations-ui/static/js/2.fff958c2.chunk.js",
+    "static/js/3.27955bfe.chunk.js": "/solaris-automations-ui/static/js/3.27955bfe.chunk.js",
+    "static/js/4.1e08a8e4.chunk.js": "/solaris-automations-ui/static/js/4.1e08a8e4.chunk.js",
+    "index.html": "/solaris-automations-ui/index.html",
+    "static/js/2.fff958c2.chunk.js.LICENSE.txt": "/solaris-automations-ui/static/js/2.fff958c2.chunk.js.LICENSE.txt",
+    "static/media/StrategyCard.tsx": "/solaris-automations-ui/static/media/solaris.4460f13f.svg",
+    "static/media/Layout.tsx": "/solaris-automations-ui/static/media/lines.71a859d3.svg",
+    "static/media/Closed.tsx": "/solaris-automations-ui/static/media/logo.059fae92.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc1f287d.js",
+    "static/js/runtime-main.b5ef3a67.js",
     "static/css/2.b7a1d25f.chunk.css",
-    "static/js/2.51f941bc.chunk.js",
-    "static/css/main.c8a708e7.chunk.css",
-    "static/js/main.2db88a05.chunk.js"
+    "static/js/2.fff958c2.chunk.js",
+    "static/css/main.930debe6.chunk.css",
+    "static/js/main.acf26071.chunk.js"
   ]
 }
